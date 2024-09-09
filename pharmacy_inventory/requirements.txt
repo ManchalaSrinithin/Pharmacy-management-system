@@ -1,0 +1,5 @@
+Flask==2.3.0
+Flask-SQLAlchemy==3.0.0
+Flask-Migrate==3.2.0
+pymysql==2.0.0
+python-dotenv==1.0.0
